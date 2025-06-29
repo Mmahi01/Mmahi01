@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mmahi01
-- 👀 I’m interested in Ai machine learning 
+- 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning python, c++ & java 
 - 📫 How to reach me moynulislam2002@gmail.com
 
